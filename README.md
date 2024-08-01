@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm Yasoga Nanayakkarawasam</h1>
 <h3 align="center">A passionate cyber security enthusiast and developer from Sri Lanka</h3>
+<div align="center">
+  <a href="https://yasogan.dev">
+    <img src="https://img.shields.io/badge/Webpage-yasogan.dev-yellow?style=for-the-badge">
+  </a>
+  <a href="https://portfolio.yasogan.dev">
+    <img src="https://img.shields.io/badge/Portfolio-portfolio.yasogan.dev-blue?style=for-the-badge">
+  </a>
+  <a href="https://resume.yasogan.dev">
+    <img src="https://img.shields.io/badge/Resume-resume.yasogan.dev-brightgreen?style=for-the-badge">
+  </a>
+  <br/><br/>
+</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YasogaN&theme=algolia&margin-w=5&margin-h=5&column=5" /><br/><br/>
@@ -8,17 +20,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasogaN&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
-All of my projects are at [portfolio.yasogan.dev](https://portfolio.yasogan.dev)
-
-You can reach me at contact@yasogan.dev
-
-Know about my experiences at [resume.yasogan.dev](https://resume.yasogan.dev)
-
 ### Connect With me
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)
-![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge)
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yasoga) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/YNanayakkarasam) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/blockydablocks) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge)](https://reddit.com/user/Big-Sector-428) 
+[![GNUPG](https://img.shields.io/badge/GnuPG_Public_Key-333?style=for-the-badge&logo=GNU%20Privacy%20Guard&logoColor=0093DD)](https://keys.openpgp.org/search?q=0xfd4285f2ff86dc79)
+[![Email](https://img.shields.io/badge/Email-teal?style=for-the-badge)](mailto:contact@yasogan.dev)
 
 ### Tech Stack
 
