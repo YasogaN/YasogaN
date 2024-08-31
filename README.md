@@ -20,6 +20,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasogaN&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Connect With me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yasoga) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/YNanayakkarasam) 
