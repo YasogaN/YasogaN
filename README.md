@@ -16,7 +16,7 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YasogaN&theme=algolia&margin-w=5&margin-h=5&column=5" /><br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=YasogaN&theme=nightowl&hide_border=false" /><br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasogaN&theme=nightowl&hide_border=false" /><br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=YasogaN&theme=nightowl&hide_border=false" /><br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasogaN&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
