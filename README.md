@@ -25,10 +25,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 12 hrs 9 mins
+Total Time: 13 hrs 49 mins
 
-TypeScript   11 hrs 14 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀   87.15 %
-Other        45 mins         ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.82 %
+TypeScript   12 hrs 54 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀   88.40 %
+Other        46 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.33 %
 ```
 
 <!--END_SECTION:waka-->
