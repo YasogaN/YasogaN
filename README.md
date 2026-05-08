@@ -4,12 +4,6 @@
   <a href="https://yasogan.dev">
     <img src="https://img.shields.io/badge/Webpage-yasogan.dev-yellow?style=for-the-badge">
   </a>
-  <a href="https://portfolio.yasogan.dev">
-    <img src="https://img.shields.io/badge/Portfolio-portfolio.yasogan.dev-blue?style=for-the-badge">
-  </a>
-  <a href="https://resume.yasogan.dev">
-    <img src="https://img.shields.io/badge/Resume-resume.yasogan.dev-brightgreen?style=for-the-badge">
-  </a>
   <br/><br/>
 </div>
 
