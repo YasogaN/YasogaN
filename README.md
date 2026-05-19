@@ -1,20 +1,66 @@
-<h1 align="center">Hi 👋, I'm Yasoga Nanayakkarawasam</h1>
-<h3 align="center">A passionate cyber security enthusiast and developer from Sri Lanka</h3>
-<div align="center">
-  <a href="https://yasogan.dev">
-    <img src="https://img.shields.io/badge/Webpage-yasogan.dev-yellow?style=for-the-badge">
-  </a>
-  <br/><br/>
-</div>
+<h2 align="center">
+  <samp>Yasoga Nanayakkarawasam</samp>
+</h1>
+<p align="center">
+  <samp>
+    full-stack dev · DevOps engineer · cloud security undergraduate<br>
+    building edge-first systems, security tooling, and oddly useful open-source things
+  </samp>
+</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YasogaN&theme=algolia&margin-w=5&margin-h=5&column=5" /><br/><br/>
-  <img src="https://stats.yasogan.dev/api?username=YasogaN&theme=nightowl&hide_border=false" /><br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=YasogaN&theme=nightowl&hide_border=false" /><br/><br/>
-  <img src="https://stats.yasogan.dev/api/top-langs/?username=YasogaN&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</div>
+<p align="center">
+  <a href="https://yasogan.dev"><img alt="website" src="https://img.shields.io/badge/yasogan.dev-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yasoga/"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:contact@yasogan.dev"><img alt="email" src="https://img.shields.io/badge/email-334155?style=for-the-badge&logo=maildotru&logoColor=white"></a>
+  <a href="https://orcid.org/0009-0008-4401-7716"><img alt="orcid" src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
+</p>
 
-<br>
+---
+
+### <samp>whoami</samp>
+
+I'm Yasoga, based in Colombo, Sri Lanka. I like the part of software where product engineering, infrastructure, and security all meet: clean APIs, boring deploys, useful logs, and systems that do not panic the moment they touch production.
+
+At the moment, most of my work sits around **Cloudflare Workers**, **TypeScript**, **Hono**, **serverless storage**, **CI/CD**, and **security-minded architecture**. I also build open-source tools when I hit a problem that feels annoying enough to deserve a package, CLI, or tiny protocol-shaped thing.
+
+<p>
+  <samp>
+    ├─ role: Independent Technical Contributor @ BitByBit<br>
+    ├─ study: BEng Computer Networking & Cloud Security<br>
+    ├─ default runtime: Cloudflare edge<br>
+    ├─ comfort zone: TypeScript, Rust, APIs, infra, security tooling<br>
+    └─ weakness: turning "small scripts" into published packages<br>
+  </samp>
+</p>
+
+### <samp>techstack</samp>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,rust,py,cs,react,nextjs,nodejs,cloudflare,docker,postgres,git,githubactions,figma" alt="Tech icons" />
+</p>
+
+| Area | Things I reach for |
+| --- | --- |
+| Edge & backend | Cloudflare Workers, Hono, Node.js, REST APIs, serverless patterns |
+| Data & storage | Cloudflare D1, R2, KV, PostgreSQL, SQL Server, MinIO |
+| Frontend | Next.js, React, Tailwind CSS, Vite, Astro |
+| DevOps | GitHub Actions, Docker, Wrangler, deployment pipelines, BetterStack |
+| Security | TLS, post-quantum readiness, API security, OpenPGP, data sovereignty |
+| Languages | TypeScript, Rust, JavaScript, Python, C# |
+
+---
+
+### <samp>principles</samp>
+
+- Logs beat guesses.
+- Typed APIs are cheaper than future debugging sessions.
+- Security should be in the architecture, not stapled on before launch.
+- Good docs are a kindness to strangers and future-me.
+- Keep the system simple until it has earned the right to be complex.
+
+---
+
+### <samp>analytics</samp>
 
 <!--START_SECTION:waka-->
 
@@ -27,15 +73,11 @@ Other        1 hr 40 mins          ⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-### Connect With me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yasoga) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/YNanayakkarasam) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/blockydablocks) 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge)](https://reddit.com/user/Big-Sector-428) 
-[![GNUPG](https://img.shields.io/badge/GnuPG_Public_Key-333?style=for-the-badge&logo=GNU%20Privacy%20Guard&logoColor=0093DD)](https://keys.openpgp.org/search?q=0xfd4285f2ff86dc79)
-[![Email](https://img.shields.io/badge/Email-teal?style=for-the-badge)](mailto:contact@yasogan.dev)
+---
 
-### Tech Stack
+### <samp>contact</samp>
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
+- Best place to start: <a href="https://yasogan.dev">yasogan.dev</a><br>
+- Professional things: <a href="https://www.linkedin.com/in/yasoga/">LinkedIn</a><br>
+- Security-sensitive things: <a href="https://keys.openpgp.org/search?q=0xfd4285f2ff86dc79">OpenPGP</a><br>
+- Direct things: <a href="mailto:contact@yasogan.dev">contact@yasogan.dev</a>
