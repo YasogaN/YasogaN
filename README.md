@@ -15,8 +15,6 @@
   <a href="https://orcid.org/0009-0008-4401-7716"><img alt="orcid" src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
 </p>
 
----
-
 ### <samp>whoami</samp>
 
 I'm Yasoga, based in Colombo, Sri Lanka. I like the part of software where product engineering, infrastructure, and security all meet: clean APIs, boring deploys, useful logs, and systems that do not panic the moment they touch production.
@@ -48,8 +46,6 @@ At the moment, most of my work sits around **Cloudflare Workers**, **TypeScript*
 | Security | TLS, post-quantum readiness, API security, OpenPGP, data sovereignty |
 | Languages | TypeScript, Rust, JavaScript, Python, C# |
 
----
-
 ### <samp>principles</samp>
 
 - Logs beat guesses.
@@ -57,8 +53,6 @@ At the moment, most of my work sits around **Cloudflare Workers**, **TypeScript*
 - Security should be in the architecture, not stapled on before launch.
 - Good docs are a kindness to strangers and future-me.
 - Keep the system simple until it has earned the right to be complex.
-
----
 
 ### <samp>analytics</samp>
 
@@ -72,8 +66,6 @@ Other        1 hr 40 mins          ⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
-
----
 
 ### <samp>contact</samp>
 
