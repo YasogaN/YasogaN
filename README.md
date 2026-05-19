@@ -12,7 +12,6 @@
   <a href="https://yasogan.dev"><img alt="website" src="https://img.shields.io/badge/yasogan.dev-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/yasoga/"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:contact@yasogan.dev"><img alt="email" src="https://img.shields.io/badge/email-334155?style=for-the-badge&logo=maildotru&logoColor=white"></a>
-  <a href="https://orcid.org/0009-0008-4401-7716"><img alt="orcid" src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
 </p>
 
 ### <samp>whoami</samp>
@@ -33,28 +32,15 @@ At the moment, most of my work sits around **Cloudflare Workers**, **TypeScript*
 
 ### <samp>techstack</samp>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,rust,py,cs,react,nextjs,nodejs,cloudflare,docker,postgres,git,githubactions,figma" alt="Tech icons" />
-</p>
+| lane | current stack | why it stays |
+| --- | --- | --- |
+| 🟧 edge runtime | Cloudflare Workers, Hono, Wrangler | low-latency APIs, deploys without ceremony |
+| 🟦 data plane | D1, R2, KV, PostgreSQL, MinIO | SQL when it matters, object storage when it scales |
+| 🟪 application layer | TypeScript, Next.js, React, Tailwind, Astro | typed product work without losing velocity |
+| 🟩 delivery layer | GitHub Actions, Docker, BetterStack | repeatable deploys, visible failures |
+| ⬛ systems languages | Rust, Python, C#, JavaScript | CLIs, audits, automation, and legacy rescue work |
 
-| Area | Things I reach for |
-| --- | --- |
-| Edge & backend | Cloudflare Workers, Hono, Node.js, REST APIs, serverless patterns |
-| Data & storage | Cloudflare D1, R2, KV, PostgreSQL, SQL Server, MinIO |
-| Frontend | Next.js, React, Tailwind CSS, Vite, Astro |
-| DevOps | GitHub Actions, Docker, Wrangler, deployment pipelines, BetterStack |
-| Security | TLS, post-quantum readiness, API security, OpenPGP, data sovereignty |
-| Languages | TypeScript, Rust, JavaScript, Python, C# |
-
-### <samp>principles</samp>
-
-- Logs beat guesses.
-- Typed APIs are cheaper than future debugging sessions.
-- Security should be in the architecture, not stapled on before launch.
-- Good docs are a kindness to strangers and future-me.
-- Keep the system simple until it has earned the right to be complex.
-
-### <samp>analytics</samp>
+### <samp>wakatime</samp>
 
 <!--START_SECTION:waka-->
 
@@ -69,7 +55,6 @@ Other        1 hr 40 mins          ⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ### <samp>contact</samp>
 
-- Best place to start: <a href="https://yasogan.dev">yasogan.dev</a><br>
 - Professional things: <a href="https://www.linkedin.com/in/yasoga/">LinkedIn</a><br>
 - Security-sensitive things: <a href="https://keys.openpgp.org/search?q=0xfd4285f2ff86dc79">OpenPGP</a><br>
 - Direct things: <a href="mailto:contact@yasogan.dev">contact@yasogan.dev</a>
