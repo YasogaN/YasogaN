@@ -8,12 +8,13 @@ on:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: HakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          API_BASE_URL: "https://hackatime.hackclub.com/api/hackatime/v1"
           SHOW_TITLE: false
           SECTION_NAME: waka
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
@@ -27,7 +28,7 @@ jobs:
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
           TARGET_BRANCH: main
           TARGET_PATH: README.md
-          COMMITTER_NAME: WakaTime
-          COMMITTER_EMAIL: wakatime@yasogan.dev
-          AUTHOR_NAME: WakaTime
-          AUTHOR_EMAIL: wakatime@yasogan.dev
+          COMMITTER_NAME: HakaTime
+          COMMITTER_EMAIL: hakatime@yasogan.dev
+          AUTHOR_NAME: HakaTime
+          AUTHOR_EMAIL: hakatime@yasogan.dev
