@@ -45,11 +45,11 @@ At the moment, most of my work sits around **Cloudflare Workers**, **TypeScript*
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 hrs 23 mins
+Total Time: 4 hrs 59 mins
 
-unknown      3 hrs 13 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.55 %
-Markdown     1 hrs 30 mins         ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.62 %
-TypeScript   0 hrs 33 mins         ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.07 %
+unknown      2 hrs 39 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.49 %
+TypeScript   0 hrs 33 mins         ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.57 %
+Markdown     0 hrs 31 mins         ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.30 %
 ```
 
 <!--END_SECTION:waka-->
